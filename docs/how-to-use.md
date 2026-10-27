@@ -13,7 +13,7 @@ Start with `candidate-profile.md` and three stories in `story-bank.md`. Ask your
 ### Claude Code
 
 ```
-/plugin marketplace add hyde-larkin/product-marketing-interview-kit
+/plugin marketplace add Hyde-and-Larkin/product-marketing-interview-kit
 /plugin install product-marketing-interview-kit@product-marketing-interview-kit
 ```
 

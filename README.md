@@ -49,7 +49,7 @@ Kept inside the skills that use them, so they travel with the plugin:
 **Claude Code (as a plugin):**
 
 ```
-/plugin marketplace add hyde-larkin/product-marketing-interview-kit
+/plugin marketplace add Hyde-and-Larkin/product-marketing-interview-kit
 /plugin install product-marketing-interview-kit@product-marketing-interview-kit
 ```
 
@@ -66,7 +66,7 @@ Also works in Cursor, Codex, or any chat app where you can upload the files. See
 
 ## Related
 
-The [Product Marketing Toolkit](https://github.com/hyde-larkin/product-marketing-toolkit) has the skills for doing the job once you've got it.
+The [Product Marketing Toolkit](https://github.com/Hyde-and-Larkin/product-marketing-toolkit) has the skills for doing the job once you've got it.
 
 ## About
 

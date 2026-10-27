@@ -5,7 +5,7 @@ description: "Handle product marketing take-homes, presentation cases, and 30-60
 
 # Case Exercises and 30-60-90 Plans
 
-> **Part of the [Product Marketing Interview Kit](../../README.md).** Read the `company-brief` for this company first. Pairs well with the [Product Marketing Toolkit](https://github.com/hyde-larkin/product-marketing-toolkit) skills for positioning and launch work.
+> **Part of the [Product Marketing Interview Kit](../../README.md).** Read the `company-brief` for this company first. Pairs well with the [Product Marketing Toolkit](https://github.com/Hyde-and-Larkin/product-marketing-toolkit) skills for positioning and launch work.
 
 ## Take-homes and presentation cases
 
