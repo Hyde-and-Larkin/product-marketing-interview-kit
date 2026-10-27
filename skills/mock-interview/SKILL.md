@@ -5,7 +5,7 @@ description: "Run a realistic mock interview for a product marketing role. Plays
 
 # Mock Interview
 
-> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `/context` and any `round-prep` output for this company. A mock is only useful if it's as specific as the real thing.
+> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `context/` and any `round-prep` output for this company. A mock is only useful if it's as specific as the real thing.
 
 ## Setup
 
@@ -18,6 +18,7 @@ Confirm before starting:
 
 ## Running it
 
+- Draw main questions from `questions-youll-be-asked.md` in this folder, tailored to the company and round.
 - One question at a time. Wait for the answer.
 - Ask at least one follow-up per main question. Good follow-ups: "What was your part specifically?", "How did you know it worked?", "What would you do differently?", "What did the people who disagreed say?"
 - Stay in character. A hiring manager interrupts when an answer runs long; an exec asks "so what?"

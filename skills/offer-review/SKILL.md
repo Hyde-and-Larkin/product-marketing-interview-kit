@@ -5,7 +5,7 @@ description: "Evaluate and negotiate a job offer for a product marketing role. B
 
 # Offer Review
 
-> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `/context/candidate-profile.md` for must-haves and dealbreakers.
+> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `context/candidate-profile.md` for must-haves and dealbreakers.
 
 **Not financial, tax, or legal advice.** This skill helps the candidate ask the right questions and think clearly. For equity tax questions or contract terms, talk to a financial advisor, accountant, or employment lawyer.
 
@@ -27,7 +27,7 @@ The candidate chooses; there's no single right answer.
 
 ## Questions to ask about the offer
 
-See `/question-bank/offer-questions.md` for the full list. The essentials:
+See `offer-questions.md` in this folder for the full list. The essentials:
 
 - Base, target bonus, and how bonus is actually paid out historically
 - Level and title, and how leveling works
@@ -38,7 +38,7 @@ See `/question-bank/offer-questions.md` for the full list. The essentials:
 ## Startup equity in plain language
 
 - **Options vs. RSUs:** options give you the right to buy shares at a set price (the strike price); RSUs are shares granted to you. Public companies usually grant RSUs; private ones often grant options.
-- **409A valuation / strike price:** what you'd pay per share to exercise options. The gap between this and future share value is your upside.
+- **409A valuation / strike price:** the 409A is an independent valuation of common stock, and it sets the strike price, which is what you'd pay per share to exercise. The gap between the strike price and what shares are later worth is your upside.
 - **Percentage, not just share count:** ask for total shares outstanding (fully diluted) to understand what your grant is worth as a slice.
 - **Preferred stock and liquidation preferences:** investors usually get paid back before common shareholders in a sale. Large preferences can make common stock worth little in a modest exit.
 - **Exercise window:** how long you have to buy your options after leaving. Short windows can force a costly decision.

@@ -1,6 +1,8 @@
 {
   "name": "product-marketing-interview-kit",
-  "owner": { "name": "Hyde & Larkin", "url": "https://hydelarkin.com" },
+  "owner": {
+    "name": "Hyde & Larkin"
+  },
   "plugins": [
     {
       "name": "product-marketing-interview-kit",
@@ -8,5 +10,6 @@
       "description": "Interview prep for product marketing roles, built to run with an AI agent.",
       "version": "0.1.0"
     }
-  ]
+  ],
+  "description": "Interview prep for product marketing roles, built to run with an AI agent."
 }

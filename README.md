@@ -2,11 +2,11 @@
 
 **Interview prep for product marketing roles, built to run with an AI agent.** For PMMs at every level, from first role to Director and Head of.
 
-This is the system behind a lot of PMM interview loops: recruiter screens, hiring managers, cross-functional panels, take-homes, CEO conversations, and offers. It's packaged as skills, so your agent does the research and drilling while you focus on the stories only you can tell.
+It covers the whole loop (recruiter screens, hiring managers, cross-functional panels, take-homes, CEO conversations, and offers) and is drawn from a prep system used across dozens of real PMM loops. It's packaged as skills, so your agent does the research and drilling while you focus on the stories only you can tell.
 
 ## What's inside
 
-### Context (`/context`)
+### Context (`context/`)
 
 Your candidate file. Fill these in once and every skill uses them:
 
@@ -15,7 +15,7 @@ Your candidate file. Fill these in once and every skill uses them:
 - `shareable-numbers.md`: which results you can say out loud, and which you can't
 - `pipeline.md`: every company, stage, and outcome in one place
 
-### Skills (`/skills`)
+### Skills (`skills/`)
 
 | Skill | What it does |
 |---|---|
@@ -28,11 +28,13 @@ Your candidate file. Fill these in once and every skill uses them:
 | [`offer-review`](skills/offer-review/SKILL.md) | Questions to ask about an offer (especially startup equity), a negotiation sequence, and a walk-away line. |
 | [`debrief`](skills/debrief/SKILL.md) | Post-round debrief, thank-you note, and pipeline update, while it's fresh. |
 
-### Question bank (`/question-bank`)
+### Question bank
 
-- [Questions you'll be asked](question-bank/questions-youll-be-asked.md), grouped by what they're really testing
-- [Questions to ask](question-bank/questions-to-ask.md), by round
-- [Offer and equity questions](question-bank/offer-questions.md)
+Kept inside the skills that use them, so they travel with the plugin:
+
+- [Questions you'll be asked](skills/mock-interview/questions-youll-be-asked.md), grouped by what they're really testing
+- [Questions to ask](skills/round-prep/questions-to-ask.md), by round
+- [Offer and equity questions](skills/offer-review/offer-questions.md)
 
 ### Playbook
 
@@ -44,7 +46,16 @@ Your candidate file. Fill these in once and every skill uses them:
 2. Fill in `context/candidate-profile.md` and draft three stories in `context/story-bank.md`. You can ask your agent to help: *"Read my resume and draft my story bank. Ask me for the numbers you don't have."*
 3. When a role comes up: *"Read AGENTS.md. Run role-decoder on [JD link], then company-brief."*
 
-Works in Claude Code (`/plugin marketplace add hyde-larkin/product-marketing-interview-kit`), Cursor, Codex, or any chat app where you can upload the files. See [docs/how-to-use.md](docs/how-to-use.md).
+**Claude Code (as a plugin):**
+
+```
+/plugin marketplace add hyde-larkin/product-marketing-interview-kit
+/plugin install product-marketing-interview-kit@product-marketing-interview-kit
+```
+
+The plugin installs the skills, not your candidate file. Copy this repo's `context/` folder into the folder you prep in, or ask Claude to create it from the templates.
+
+Also works in Cursor, Codex, or any chat app where you can upload the files. See [docs/how-to-use.md](docs/how-to-use.md).
 
 ## What makes it different
 

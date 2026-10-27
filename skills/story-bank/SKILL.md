@@ -5,7 +5,7 @@ description: "Build and sharpen the candidate's interview stories. Turns raw exp
 
 # Story Bank
 
-> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `/context/candidate-profile.md`, `/context/story-bank.md`, and `/context/shareable-numbers.md` first.
+> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `context/candidate-profile.md`, `context/story-bank.md`, and `context/shareable-numbers.md` first.
 
 Most PMM interview questions are asking for one of about eight stories. Candidates who struggle usually have the experience but haven't shaped it: the result comes last, the "I" is buried in "we," and there's no number.
 

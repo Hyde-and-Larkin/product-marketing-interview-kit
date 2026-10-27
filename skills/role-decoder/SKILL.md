@@ -5,7 +5,7 @@ description: "Decide whether a product marketing role is worth pursuing. Reads t
 
 # Role Decoder
 
-> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `/context/candidate-profile.md` first, especially target roles, must-haves, and dealbreakers.
+> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `context/candidate-profile.md` first, especially target roles, must-haves, and dealbreakers.
 
 The same title means very different jobs. "Senior PMM" can mean owning positioning for a product line with a seat in roadmap planning, or writing blog posts and one-pagers on request. Figure out which one this is before you spend ten hours on a loop.
 

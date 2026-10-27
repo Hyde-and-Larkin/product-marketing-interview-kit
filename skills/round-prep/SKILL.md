@@ -5,7 +5,7 @@ description: "Prepare for one specific interview round: recruiter screen, hiring
 
 # Round Prep
 
-> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `/context/candidate-profile.md` and `/context/story-bank.md`, plus any `company-brief` and `role-decoder` output for this company.
+> **Part of the [Product Marketing Interview Kit](../../README.md).** Read `context/candidate-profile.md` and `context/story-bank.md`, plus any `company-brief` and `role-decoder` output for this company.
 
 ## Inputs
 
@@ -37,7 +37,7 @@ description: "Prepare for one specific interview round: recruiter screen, hiring
 
 **Why this role, why now:** (honest, specific to this company)
 
-**Likely questions → story to use**
+**Likely questions → story to use** (start from `../mock-interview/questions-youll-be-asked.md`)
 | Question | Story | Note |
 
 **Prepared answers for the two hardest questions:**
@@ -60,7 +60,7 @@ Generic questions waste the slot. Use the interviewer's role and background:
 - An exec with a notable past company: "You saw [past company] scale through [stage]. What patterns do you see here?"
 - Everyone: "What would I need to have accomplished in 12 months for you to call this a great hire?"
 
-Pull from `/question-bank/questions-to-ask.md` and rewrite for the person.
+Pull from `questions-to-ask.md` in this folder and rewrite for the person.
 
 ## Guardrails
 

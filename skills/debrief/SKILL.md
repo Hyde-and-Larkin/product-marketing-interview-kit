@@ -5,7 +5,7 @@ description: "Capture an interview while it's fresh: what was asked, what landed
 
 # Debrief
 
-> **Part of the [Product Marketing Interview Kit](../../README.md).** Updates `/context/pipeline.md` and can feed improvements back into `/context/story-bank.md`.
+> **Part of the [Product Marketing Interview Kit](../../README.md).** Updates `context/pipeline.md` and can feed improvements back into `context/story-bank.md`.
 
 Do this within an hour. By tomorrow you'll remember how it felt, not what was said.
 

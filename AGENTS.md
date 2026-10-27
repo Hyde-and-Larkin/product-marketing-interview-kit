@@ -4,10 +4,10 @@ This repository is an interview-prep kit for product marketing roles. You're hel
 
 ## How to work here
 
-1. **Read `/context` first.** `candidate-profile.md`, `story-bank.md`, and `shareable-numbers.md` describe the candidate. If they're blank templates, help the candidate fill them in before prepping for a specific round.
-2. **Pick the skill** in `/skills` that matches the request, read its `SKILL.md` fully, and follow it.
-3. **Use the question bank** in `/question-bank` instead of inventing questions from scratch.
-4. **Follow `/playbooks/interview-loop.md`** when the candidate is starting a new process end to end.
+1. **Read `context/` first.** `candidate-profile.md`, `story-bank.md`, and `shareable-numbers.md` describe the candidate. If they're blank templates, help the candidate fill them in before prepping for a specific round.
+2. **Pick the skill** in `skills/` that matches the request, read its `SKILL.md` fully, and follow it.
+3. **Use the question bank** instead of inventing questions from scratch: `skills/mock-interview/questions-youll-be-asked.md`, `skills/round-prep/questions-to-ask.md`, and `skills/offer-review/offer-questions.md`.
+4. **Follow `playbooks/interview-loop.md`** when the candidate is starting a new process end to end.
 
 ## Rules for every skill
 
