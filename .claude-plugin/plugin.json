@@ -4,6 +4,9 @@
   "description": "Interview prep for product marketing roles: role decoding, company briefs, story bank, round prep, mock interviews, cases and 30-60-90 plans, offer review, and debriefs.",
   "author": { "name": "Hyde & Larkin", "url": "https://hydelarkin.com" },
   "homepage": "https://github.com/Hyde-and-Larkin/product-marketing-interview-kit",
+  "repository": "https://github.com/Hyde-and-Larkin/product-marketing-interview-kit",
+  "supportUrl": "https://github.com/Hyde-and-Larkin/product-marketing-interview-kit/issues",
+  "documentationUrl": "https://github.com/Hyde-and-Larkin/product-marketing-interview-kit#readme",
   "license": "CC-BY-4.0",
   "keywords": ["product-marketing", "pmm", "interview", "career", "job-search"]
 }
